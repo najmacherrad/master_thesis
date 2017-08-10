@@ -1,0 +1,242 @@
+ID,Gene_name,Variant_effect,prediction_wt,prediction_mut,difference,difference_envt
+1,KCNQ1,missense,P,C,P to C,0
+4,GJB3,missense,G,C,G to C,0
+5,GJB3,missense,C,C,0,0
+7,SLC26A4,missense,A,A,0,0
+8,FOXI1,missense,E,C,E to C,0
+9,CDH23,missense,B,B,0,ABBB-BBCC to ABBB-GBAC
+10,ATP2B2,missense,A,A,0,PCAA-AAAA to AAAA-AAAA
+14,CDH23,missense,A,A,0,0
+15,CDH23,missense,A,A,0,0
+17,DYNC2H1,missense,G,C,G to C,BBCC-PCGA to BBBC-CCGA
+18,NPHS2,missense,A,A,0,AAAB-CECP to AAAA-CECP
+20,PROKR2,missense,A,A,0,0
+21,KAL1,missense,B,B,0,BBBB-CBPC to BBBB-BBPC
+22,FGFR1,missense,B,B,0,BBBB-PEGC to BBBB-CGGB
+24,FGFR1,missense,C,C,0,0
+25,GNRHR,missense,B,B,0,GBBB-AAPE to GBBB-AACE
+26,GNRHR,missense,A,A,0,0
+27,KAL1,missense,B,B,0,0
+28,NSMF,missense,A,C,A to C,AGCC-AAAA to CGGC-BAAA
+33,TJP2,missense,B,B,0,BEBB-BEEP to BEBB-CEEP
+35,OTUD4,missense,E,B,E to B,CCCC-PCPB to CCCC-PCAA
+36,RNF216,missense,A,P,A to P,BBBB-PGPC to BBBB-CGCC
+37,EDNRB,missense,C,G,C to G,0
+39,PARK7,missense,C,C,0,BBEC-GCPP to BBEC-EPPP
+40,PINK1,missense,O,B,O to B,GCBP-CCBB to EAAB-BCCB
+43,CYP1B1,missense,C,G,C to G,BECC-BPBC to BEBC-BPPC
+44,MYOC,missense,G,A,G to A,CCCG-ABBB to CGAA-AABA
+45,MYOC,missense,B,B,0,0
+47,TYR,missense,A,A,0,0
+48,OCA2,missense,A,A,0,CACG-BBBB to CACG-ABBB
+50,OCA2,missense,E,E,0,0
+54,FGG,missense,G,A,G to A,PACC-BBBB to AAAC-ABBB
+55,FGA,missense,P,P,0,EEEP-EOBB to EGEB-EOBB
+56,SLC3A1,missense,B,B,0,BAAG-BBBC to BBBG-BBBB
+57,SLC7A9,missense,C,C,0,0
+58,SLC7A9,missense,E,E,0,0
+59,SLC3A1,missense,C,C,0,0
+61,FZD4,missense,A,A,0,0
+62,LRP5,missense,B,B,0,0
+63,HAMP,missense,E,C,E to C,BBBC-PCGG to BBBB-CCGG
+66,LMNA,missense,A,A,0,0
+67,GDAP1,missense,A,A,0,0
+69,CPOX,missense,E,C,E to C,BBBE-EPPC to BBBE-ECCC
+70,ALAD,missense,C,P,C to P,0
+71,POLG,missense,E,C,E to C,BBBC-BBBB to BBBB-BBBB
+72,SCN1A,missense,A,B,A to B,AAAA-BCEC to ABBB-BCEC
+73,SCN2A,missense,B,A,B to A,AAAA-BPCP to AAAA-APAA
+75,GGCX,missense,B,A,B to A,AABB-BCEE to AAAA-ACEE
+76,PITX2,missense,C,A,C to A,BCCG-AAAA to PCCG-AAAA
+78,KRT14,missense,A,A,0,0
+79,KRT5,missense,A,A,0,CACA-AAAA to CBCC-AAAA
+80,F5,missense,C,C,0,0
+84,HFE,missense,B,B,0,0
+86,KCNQ1,missense,P,C,P to C,0
+87,KCNE1,missense,O,C,O to C,0
+88,KCNQ1,missense,E,E,0,0
+89,KCNE1,missense,C,C,0,0
+90,KCNQ1,missense,B,B,0,0
+91,KCNQ1,missense,A,A,0,0
+92,KCNH2,missense,P,P,0,0
+93,KCNE1,missense,C,C,0,0
+94,KCNH2,missense,A,A,0,0
+95,KCNH2,missense,G,G,0,0
+97,KCNH2,missense,A,A,0,0
+98,KCNH2,missense,P,P,0,0
+99,KCNH2,missense,C,C,0,0
+100,SCN5A,missense,A,A,0,PCGA-AAAA to CCEA-AAAA
+101,KCNE1,missense,B,B,0,0
+102,SCN5A,missense,A,A,0,0
+105,KCNQ1,missense,C,C,0,0
+106,KCNH2,missense,P,P,0,0
+107,SCN5A,missense,A,A,0,0
+108,KCNH2,missense,P,P,0,0
+109,KCNE2,missense,C,C,0,ACEC-CBBB to AAEC-CABB
+110,CAV3,missense,C,C,0,ACAC-CCGP to AAAA-CCGP
+111,KCNH2,missense,P,P,0,0
+112,BBS2,missense,G,A,G to A,AAAA-AGGP to AAAA-AGAP
+113,MKKS,missense,C,C,0,BBBB-EPCE to BBBC-EOCE
+115,MKKS,missense,A,A,0,0
+118,BBS4,missense,A,A,0,0
+119,BBS2,missense,B,B,0,0
+120,BBS1,missense,C,C,0,BPPO-AAAA to BCPO-AAAA
+121,BBS7,missense,P,B,P to B,BBBE-CCGA to BBBE-PCGA
+123,BBS1,missense,B,B,0,0
+124,MKKS,missense,A,A,0,0
+126,MKKS,missense,C,C,0,0
+127,BBS2,missense,A,A,0,0
+128,BBS4,missense,A,A,0,0
+130,BBS4,missense,O,O,0,0
+131,BBS2,missense,A,A,0,0
+132,BBS4,missense,A,A,0,0
+136,BBS7,missense,E,E,0,0
+140,BBS2,missense,B,B,0,0
+141,BBS2,missense,A,A,0,0
+143,CEP290,missense,A,A,0,CCGA-AAAA to ACGA-AAAA
+144,BBS10,missense,A,A,0,BBAA-AACC to BBAA-AAAC
+146,BBS5,missense,G,B,G to B,0
+149,BBS10,missense,A,A,0,0
+151,BBS12,missense,G,C,G to C,BPCC-CGCB to BPPC-CGCP
+152,BBS12,missense,B,B,0,0
+153,BBS10,missense,A,A,0,0
+155,BBS4,missense,B,B,0,0
+157,BBS10,missense,A,A,0,0
+159,BBS10,missense,B,B,0,0
+163,BBS10,missense,C,C,0,0
+165,BBS12,missense,G,G,0,0
+167,BBS12,missense,A,A,0,0
+168,MKKS,missense,B,B,0,0
+170,BBS2,missense,A,A,0,0
+171,BBS10,missense,C,C,0,0
+174,TTC8,missense,B,B,0,ECGC-BCCP to ECGC-CCCP
+175,BBS9,missense,A,C,A to C,ACGA-ABAB to ACGC-BBBB
+178,MKKS,missense,A,A,0,0
+179,BBS10,missense,B,B,0,0
+180,ARL6,missense,B,B,0,0
+181,TTC8,missense,A,A,0,0
+182,TTC8,missense,B,B,0,0
+184,BBS12,missense,O,O,0,0
+185,BBS1,missense,B,B,0,0
+186,NPHS2,missense,A,A,0,0
+187,CD2AP,missense,P,P,0,CPPC-PGPP to CPPP-PGBP
+188,NPHS1,missense,P,P,0,0
+191,NPHS1,missense,C,C,0,0
+192,TYR,missense,C,C,0,0
+193,SLC45A2,missense,E,C,E to C,BBBC-POCB to BBBB-POCC
+195,SLC45A2,missense,C,C,0,0
+196,OCA2,missense,B,B,0,0
+197,SLC45A2,missense,E,E,0,0
+199,OCA2,missense,P,P,0,0
+200,IL10RA,missense,B,E,B to E,GCAA-BBAC to GCCC-BBBC
+201,IL10RA,missense,C,C,0,0
+202,NOD2,missense,A,A,0,0
+203,EDA,missense,C,C,0,BBBB-EAAA to BBBB-EBBA
+205,MTR,missense,O,B,O to B,CGBP-POGP to CGBB-POGP
+206,MYO7A,missense,A,C,A to C,AAGA-AAAA to AAGC-AAAA
+208,EDA,missense,E,E,0,0
+209,WNT10A,missense,A,A,0,0
+210,EDA,missense,B,B,0,0
+212,EDA,missense,A,A,0,0
+213,WNT10A,missense,E,E,0,0
+215,MYO6,missense,B,A,B to A,CCGA-BBBB to ACGA-AAAB
+217,CPT2,missense,C,C,0,BBBB-EPPB to BBBB-EPCB
+219,FGFR1,missense,B,B,0,0
+220,GNRHR,missense,A,A,0,0
+221,KAL1,missense,B,B,0,0
+222,PROKR2,missense,A,A,0,0
+223,FGFR1,missense,B,B,0,0
+224,KISS1R,missense,B,B,0,OEOP-BBCC to OEOP-BBBC
+225,PROK2,missense,P,P,0,PBOC-EPAB to CBOP-EPPB
+226,PROKR2,missense,B,B,0,0
+227,FGFR1,missense,P,P,0,0
+228,KAL1,missense,B,B,0,0
+230,SCN5A,missense,C,C,0,0
+231,KCNQ1,missense,B,B,0,0
+233,KCNJ10,missense,B,B,0,BBBB-CEPO to BBBB-CEPP
+234,SLC26A4,missense,C,C,0,0
+235,KCNJ10,missense,P,P,0,0
+238,GDNF,missense,A,A,0,AAAA-AAAA to AAAG-AAAA
+245,MFN2,missense,A,G,A to G,GAAG-AAAC to AGCC-BBAA
+247,MYO7A,missense,E,E,0,0
+248,CDH23,missense,C,C,0,0
+250,CDH23,missense,A,A,0,0
+252,GPR98,missense,C,B,C to B,0
+255,DFNB31,missense,B,B,0,0
+256,MYO7A,missense,P,P,0,0
+258,USH2A,missense,B,B,0,0
+266,IL17RD,missense,C,C,0,AAAA-BPCC to BBAA-CPCC
+267,FGFR1,missense,E,E,0,EGCC-BPCC to GGBB-BBCC
+268,IL17RD,missense,P,P,0,0
+269,KISS1R,missense,C,C,0,BBCC-PPAA to BBBC-BPAA
+270,DUSP6,missense,B,B,0,CPBB-CCCC to CPBB-BCCC
+271,FGFR1,missense,B,B,0,0
+272,DUSP6,missense,C,C,0,0
+274,DUSP6,missense,C,C,0,0
+275,FGFR1,missense,P,P,0,0
+276,FGFR1,missense,A,A,0,0
+277,FLRT3,missense,G,G,0,0
+279,ITGA7,missense,B,B,0,OCAB-BCEE to OAAB-BCEE
+281,HNF4A,missense,B,B,0,BBBB-CCGB to BBBB-BPCB
+283,NPHS2,missense,A,A,0,0
+284,NPHS1,missense,P,P,0,0
+286,EDA,missense,A,A,0,0
+287,USH2A,missense,A,A,0,CPAA-AAPP to AAAA-AACP
+289,MKKS,missense,C,C,0,0
+290,BBS2,missense,B,B,0,0
+293,KAL1,missense,B,B,0,0
+295,LMNA,missense,A,A,0,0
+296,PRF1,missense,A,B,A to B,BPCG-ABBB to BPCG-BBBB
+298,PRF1,missense,A,A,0,0
+300,PRF1,missense,C,C,0,0
+301,UNC13D,missense,A,A,0,AAAA-BCCC to AAAA-ACCC
+302,UNC13D,missense,A,A,0,0
+303,UNC13D,missense,C,C,0,0
+304,UNC13D,missense,A,A,0,0
+305,PRF1,missense,A,A,0,0
+306,UNC13D,missense,A,A,0,0
+307,UNC13D,missense,A,A,0,0
+308,PRF1,missense,A,A,0,AAAA-AAAA to BAAA-AAAA
+309,UNC13D,missense,A,A,0,0
+310,UNC13D,missense,A,A,0,0
+312,UNC13D,missense,A,A,0,0
+313,PRF1,missense,E,E,0,0
+314,UNC13D,missense,A,A,0,0
+315,STXBP2,missense,C,A,C to A,GACA-BABA to GAAA-AAAA
+316,PRF1,missense,C,C,0,0
+317,STXBP2,missense,C,C,0,0
+318,STXBP2,missense,A,A,0,0
+320,STXBP2,missense,A,A,0,0
+323,STXBP2,missense,C,C,0,0
+324,UNC13D,missense,A,A,0,0
+325,STX11,missense,A,A,0,0
+326,STXBP2,missense,B,B,0,0
+327,STX11,missense,A,A,0,CBAA-AAAA to CPAA-AAAA
+328,RAB27A,missense,A,B,A to B,AAAA-CCCG to AABB-PCCG
+329,PROKR2,missense,A,A,0,0
+330,FGFR1,missense,A,A,0,0
+331,PROKR2,missense,A,A,0,0
+332,PROKR2,missense,B,B,0,0
+333,GNRHR,missense,B,B,0,0
+334,POLG,missense,A,A,0,0
+335,C10orf2,missense,A,O,A to O,AAEA-AAAA to BCEP-CGAA
+338,DSP,missense,B,B,0,0
+340,MYH7,missense,G,A,G to A,0
+341,NEXN,missense,A,G,A to G,AAAA-AAAA to AAAC-AABA
+342,MYH7,missense,A,A,0,0
+344,DSP,missense,A,A,0,0
+345,JUP,missense,A,C,A to C,AACA-GCCA to ABCC-GCCC
+347,JUP,missense,C,C,0,0
+350,BMPR2,missense,A,A,0,0
+353,PDX1,missense,P,G,P to G,0
+354,NEUROD1,missense,B,B,0,0
+358,PROK2,missense,P,P,0,0
+359,GNRHR,missense,A,A,0,0
+360,ABCC9,missense,A,A,0,AAAA-AAAC to AAAA-ABAC
+363,NEXN,missense,A,A,0,0
+366,ATP2B3,missense,G,G,0,0
+367,LAMA1,missense,B,A,B to A,CAAA-AAAA to AAAA-AAAA
+368,LAMA1,missense,C,C,0,0
+369,DSP,missense,A,A,0,0
+370,PRPH2,missense,B,O,B to O,CGCC-CCCC to CCCP-CCCC
+373,C10orf2,missense,B,B,0,0
