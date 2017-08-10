@@ -90,7 +90,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 df = pd.read_csv('DIDAlength2.csv','\t')
 #df = df.set_index('Uniprot_ACC')
-df.plot(kind='bar',legend=False) #,title='Prelude conformation differences for DIDA variants')
+df.plot(kind='bar',legend=False)
 plt.ylabel('Uniprot ACC')
 plt.savefig('barplotDIDA_length.png')
 
@@ -184,20 +184,8 @@ for v in variants:
                 for i in range(0,len(seq6),60):
                     mutant.write(seq6[i:min(len(seq6),i+60)] + '\n')
                 compteur = compteur + 1
-            #elif v[2]=='intronic' or v[2]=='splicing' or v[2]=='frameshift' or v[2]=='nonsense': 
-                #On les prend pas en compte
-                                    
-#['PROBLEME in Q14032 position 66', 'PROBLEME in A7E2Y1 position 890', 'PROBLEME in Q9C004 position 241']   
+                                     
             
 fasta.close()
 V.close()
 mutant.close()     
-
-#TO KNOW NUMBER OF SEQUENCES 
-file=open('DIDAgenes_mutALL.txt','r')  
-lines = file.readlines()        
-liste=[]
-for i in range(0,len(lines)):
-    if lines[i].startswith('>'):
-        liste.append(lines[i])            
-file.close()
