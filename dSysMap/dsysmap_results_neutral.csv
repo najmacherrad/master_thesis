@@ -1,0 +1,287 @@
+ID,Gene_name,Variant_effect,DISEASE_GROUP,DISEASE,MIM,SWISSVAR_ID,STRUCT_CLASS,INTERFACE
+rs80358316,LRP5,missense,Exudative vitreoretinopathy,"Vitreoretinopathy, exudative 4 (EVR4) [MIM:601813]",601813,VAR_063972,SURF,NO
+rs541929171,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_067104,SURF,NO
+rs568612627,GJB2,missense,Deafness,"Deafness, autosomal recessive, 1A (DFNB1A) [MIM:220290]",220290,VAR_023613,SURF,YES
+rs61752784,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_058873,SURF,NO
+rs143175221,HFE,missense,Hemochromatosis,Hemochromatosis 1 (HFE1) [MIM:235200],235200,VAR_042511,BURIED,NO
+rs74315352,PARK7,missense,Parkinson disease,Parkinson disease 7 (PARK7) [MIM:606324],606324,VAR_020496,SURF,NO
+rs200208925,MYOC,missense,Glaucoma,"Glaucoma 1, open angle, A (GLC1A) [MIM:137750]",137750,VAR_008969,,NO
+rs150562946,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_019750,SURF,NO
+rs150562946,PARK2,missense,Parkinson disease,Parkinson disease (PARK) [MIM:168600],168600,VAR_019750,SURF,NO
+rs55830907,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_070079,SURF,NO
+rs201030241,LRP5,missense,Exudative vitreoretinopathy,"Vitreoretinopathy, exudative 1 (EVR1) [MIM:133780]",133780,VAR_076550,,NO
+rs111033275,USH2A,missense,Retinitis pigmentosa,Retinitis pigmentosa 39 (RP39) [MIM:613809],613809,VAR_025780,,NO
+rs111033275,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_025780,,NO
+rs145771342,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_072064,,NO
+rs63749794,ABCC6,missense,Arterial calcification,"Arterial calcification of infancy, generalized, 2 (GACI2) [MIM:614473]",614473,VAR_067890,,NO
+rs63749794,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_067890,,NO
+rs72547524,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_067909,SURF,NO
+rs142000963,LMNA,missense,Emery-Dreifuss muscular dystrophy,"Emery-Dreifuss muscular dystrophy 2, autosomal dominant (EDMD2) [MIM:181350]",181350,VAR_039792,,NO
+rs142000963,LMNA,missense,Hutchinson-Gilford progeria syndrome,Hutchinson-Gilford progeria syndrome (HGPS) [MIM:176670],176670,VAR_039792,,NO
+rs189159450,HMBS,missense,Porphyria,Acute intermittent porphyria (AIP) [MIM:176000],176000,VAR_003638,SURF,NO
+rs28931603,CPOX,missense,Coproporphyria,Hereditary coproporphyria (HCP) [MIM:121300],121300,VAR_019069,SURF,NO
+rs2307440,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_014910,SURF,NO
+rs139251285,SLC3A1,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_072301,SURF,NO
+rs146245480,NEXN,missense,Cardiomyopathy,"Cardiomyopathy, familial hypertrophic 20 (CMH20) [MIM:613876]",613876,VAR_065478,,NO
+rs199473505,KCNH2,missense,Long QT syndrome,Long QT syndrome 2 (LQT2) [MIM:613688],613688,VAR_068257,,NO
+rs555514820,SGCB,missense,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy 2E (LGMD2E) [MIM:604286],604286,VAR_010422,,NO
+rs1800730,HFE,missense,Hemochromatosis,Hemochromatosis 1 (HFE1) [MIM:235200],235200,VAR_004397,SURF,NO
+rs397514637,DYNC2H1,missense,Short-rib thoracic dysplasia,Short-rib thoracic dysplasia 3 with or without polydactyly (SRTD3) [MIM:613091],613091,VAR_069591,,NO
+rs111033256,SLC26A4,missense,Deafness,"Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]",600791,VAR_021653,,NO
+rs111033256,SLC26A4,missense,Pendred syndrome,Pendred syndrome (PDS) [MIM:274600],274600,VAR_021653,,NO
+rs80358317,LRP5,missense,Exudative vitreoretinopathy,"Vitreoretinopathy, exudative 4 (EVR4) [MIM:601813]",601813,VAR_063977,SURF,NO
+rs61753180,TYR,missense,Albinism,"Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]",203100,VAR_007652,,NO
+rs186044004,CPT2,missense,Carnitine palmitoyltransferase deficiency,Carnitine palmitoyltransferase 2 deficiency late-onset (CPT2D) [MIM:255110],255110,VAR_007971,BURIED,NO
+rs121917973,SCN1A,missense,Epileptic encephalopathy,"Epileptic encephalopathy, early infantile, 6 (EIEE6) [MIM:607208]",607208,VAR_043361,,NO
+rs145843073,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_023668,SURF,YES
+rs104894696,HAMP,missense,Hemochromatosis,Hemochromatosis 2B (HFE2B) [MIM:613313],613313,VAR_026648,SURF,YES
+rs36210423,SCN5A,missense,Atrial septal defect,"Atrial fibrillation, familial, 10 (ATFB10) [MIM:614022]",614022,VAR_055178,,NO
+rs36210423,SCN5A,missense,Long QT syndrome,Long QT syndrome 3 (LQT3) [MIM:603830],603830,VAR_055178,,NO
+rs55774500,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_019738,SURF,NO
+rs16991652,KCNE2,missense,Long QT syndrome,Long QT syndrome 6 (LQT6) [MIM:613693],613693,VAR_008376,SURF,NO
+rs145254330,SLC26A4,missense,Deafness,"Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]",600791,VAR_021647,,NO
+rs145254330,SLC26A4,missense,Pendred syndrome,Pendred syndrome (PDS) [MIM:274600],274600,VAR_021647,,NO
+rs80338902,USH2A,missense,Retinitis pigmentosa,Retinitis pigmentosa 39 (RP39) [MIM:613809],613809,VAR_025775,,NO
+rs80338902,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_025775,,NO
+rs537233133,ABCC6,missense,Arterial calcification,"Arterial calcification of infancy, generalized, 2 (GACI2) [MIM:614473]",614473,VAR_067860,,NO
+rs75030001,RET,missense,Medullary thyroid carcinoma,Medullary thyroid carcinoma (MTC) [MIM:155240],155240,VAR_009482,BURIED,YES
+rs75030001,RET,missense,Multiple neoplasia,Multiple neoplasia 2A (MEN2A) [MIM:171400],171400,VAR_009482,BURIED,YES
+rs77724903,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_009483,SURF,YES
+rs77724903,RET,missense,Medullary thyroid carcinoma,Medullary thyroid carcinoma (MTC) [MIM:155240],155240,VAR_009483,SURF,YES
+rs77724903,RET,missense,Multiple neoplasia,Multiple neoplasia 2A (MEN2A) [MIM:171400],171400,VAR_009483,SURF,YES
+rs77724903,RET,missense,Pheochromocytoma,Pheochromocytoma (PCC) [MIM:171300],171300,VAR_009483,SURF,YES
+rs138487695,TYR,missense,Albinism,"Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]",203100,VAR_021691,,NO
+rs104894314,TYR,missense,Albinism,"Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]",203100,VAR_007669,,NO
+rs104894314,TYR,missense,Albinism,"Albinism, oculocutaneous, 1B (OCA1B) [MIM:606952]",606952,VAR_007669,,NO
+rs61755770,PRPH2,missense,Macular dystrophy,"Macular dystrophy, vitelliform, 3 (VMD3) [MIM:608161]",608161,VAR_006855,,NO
+rs61755770,PRPH2,missense,Retinitis pigmentosa,Retinitis pigmentosa 7 (RP7) [MIM:608133],608133,VAR_006855,,NO
+rs66583685,CYP1B1,missense,Glaucoma,"Glaucoma, primary open angle (POAG) [MIM:137760]",137760,VAR_054251,BURIED,NO
+rs72653762,ABCC6,missense,Arterial calcification,"Arterial calcification of infancy, generalized, 2 (GACI2) [MIM:614473]",614473,VAR_067850,,NO
+rs72653762,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_067850,,NO
+rs201386640,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_054591,,NO
+rs57830985,LMNA,missense,Lipodystrophy,"Lipodystrophy, familial partial, 2 (FPLD2) [MIM:151660]",151660,VAR_009998,,NO
+rs121913088,FGG,missense,Dysfibrinogenemia,"Dysfibrinogenemia, congenital (DYSFIBRIN) [MIM:616004]",616004,VAR_002410,SURF,YES
+rs121918066,UROD,missense,Porphyria,Familial porphyria cutanea tarda (FPCT) [MIM:176100],176100,VAR_007916,SURF,NO
+rs192489011,RET,missense,Central hypoventilation syndrome,Congenital central hypoventilation syndrome (CCHS) [MIM:209880],209880,VAR_018153,SURF,NO
+rs76397662,RET,missense,Central hypoventilation syndrome,Congenital central hypoventilation syndrome (CCHS) [MIM:209880],209880,VAR_018154,SURF,YES
+rs76397662,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_018154,SURF,YES
+rs376754645,MYH7,missense,Cardiomyopathy,"Cardiomyopathy, familial hypertrophic 1 (CMH1) [MIM:192600]",192600,VAR_019861,SURF,NO
+rs2856897,MYH7,missense,Cardiomyopathy,"Cardiomyopathy, familial hypertrophic 1 (CMH1) [MIM:192600]",192600,VAR_042809,SURF,YES
+rs202141173,MYH7,missense,Cardiomyopathy,"Cardiomyopathy, familial hypertrophic 1 (CMH1) [MIM:192600]",192600,VAR_042810,SURF,YES
+rs61754375,TYR,missense,Albinism,"Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]",203100,VAR_007671,,NO
+rs575368466,SCN1A,missense,Epilepsy,Generalized epilepsy with febrile seizures plus 2 (GEFS+2) [MIM:604403],604403,VAR_073604,,NO
+rs121912697,SLC3A1,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_038202,SURF,NO
+rs144162964,SLC3A1,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_011426,BURIED,NO
+rs199989396,IL10RA,missense,Inflammatory bowel disease,Inflammatory bowel disease 28 (IBD28) [MIM:613148],613148,VAR_071666,SURF,YES
+rs199473045,SCN5A,missense,Brugada syndrome,Brugada syndrome 1 (BRGDA1) [MIM:601144],601144,VAR_026341,,NO
+rs199473045,SCN5A,missense,Long QT syndrome,Long QT syndrome 3 (LQT3) [MIM:603830],603830,VAR_026341,,NO
+rs199473592,SCN5A,missense,Brugada syndrome,Brugada syndrome 1 (BRGDA1) [MIM:601144],601144,VAR_055184,,NO
+rs79204362,CYP1B1,missense,Glaucoma,"Glaucoma 1, open angle, A (GLC1A) [MIM:137750]",137750,VAR_016034,SURF,NO
+rs79204362,CYP1B1,missense,Glaucoma,"Glaucoma 3, primary congenital, A (GLC3A) [MIM:231300]",231300,VAR_016034,SURF,NO
+rs77428810,LRRK2,missense,Parkinson disease,Parkinson disease 8 (PARK8) [MIM:607060],607060,VAR_024956,SURF,YES
+rs74315418,PROKR2,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 3 with or without anosmia (HH3) [MIM:244200],244200,VAR_030958,SURF,NO
+rs202203360,PROKR2,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 3 with or without anosmia (HH3) [MIM:244200],244200,VAR_072173,SURF,NO
+rs141647931,BBS10,missense,Bardet-Biedl syndrome,Bardet-Biedl syndrome 10 (BBS10) [MIM:615987],615987,VAR_026406,,NO
+rs142948132,EDA,missense,"Tooth agenesis, selective,","Tooth agenesis, selective, X-linked, 1 (STHAGX1) [MIM:313500]",313500,VAR_071458,SURF,YES
+rs556445621,C10orf2,missense,Perrault syndrome,Perrault syndrome 5 (PRLTS5) [MIM:616138],616138,VAR_072657,,NO
+rs74315339,MYOC,missense,Glaucoma,"Glaucoma 1, open angle, A (GLC1A) [MIM:137750]",137750,VAR_054272,,NO
+rs74315339,MYOC,missense,Glaucoma,"Glaucoma 3, primary congenital, A (GLC3A) [MIM:231300]",231300,VAR_054272,,NO
+rs201573718,MYOC,missense,Glaucoma,"Glaucoma 1, open angle, A (GLC1A) [MIM:137750]",137750,VAR_009688,SURF,NO
+rs532361142,BBS2,missense,Bardet-Biedl syndrome,Bardet-Biedl syndrome 2 (BBS2) [MIM:615981],615981,VAR_038892,,NO
+rs530318579,NPHS2,missense,Nephrotic syndrome,Nephrotic syndrome 2 (NPHS2) [MIM:600995],600995,VAR_071222,,NO
+rs149051148,MKKS,missense,Bardet-Biedl syndrome,Bardet-Biedl syndrome 6 (BBS6) [MIM:605231],605231,VAR_017039,SURF,NO
+rs202208393,CHD7,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 5 with or without anosmia (HH5) [MIM:612370],612370,VAR_072956,,NO
+rs145125791,NPHS1,missense,Nephrotic syndrome,Nephrotic syndrome 1 (NPHS1) [MIM:256300],256300,VAR_072375,,NO
+rs113825926,NPHS1,missense,Nephrotic syndrome,Nephrotic syndrome 1 (NPHS1) [MIM:256300],256300,VAR_072377,,NO
+rs367976914,NPHS1,missense,Nephrotic syndrome,Nephrotic syndrome 1 (NPHS1) [MIM:256300],256300,VAR_072378,,NO
+rs570878629,JUP,missense,Arrhythmogenic right ventricular dysplasia,"Arrhythmogenic right ventricular dysplasia, familial, 12 (ARVD12) [MIM:611528]",611528,VAR_065698,,NO
+rs34738426,DSP,missense,Arrhythmogenic right ventricular dysplasia,"Arrhythmogenic right ventricular dysplasia, familial, 8 (ARVD8) [MIM:607450]",607450,VAR_023816,,NO
+rs72474224,GJB2,missense,Deafness,"Deafness, autosomal recessive, 1A (DFNB1A) [MIM:220290]",220290,VAR_002139,SURF,YES
+rs121918771,SCN1A,missense,Epileptic encephalopathy,"Epileptic encephalopathy, early infantile, 6 (EIEE6) [MIM:607208]",607208,VAR_029670,,NO
+rs121918805,SCN1A,missense,Epilepsy,Generalized epilepsy with febrile seizures plus 2 (GEFS+2) [MIM:604403],604403,VAR_043364,,NO
+rs121918805,SCN1A,missense,Epilepsy,Intractable childhood epilepsy with generalized tonic-clonic seizures (ICEGTC) [MIM:607208],607208,VAR_043364,,NO
+rs113994094,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_023664,SURF,NO
+rs113994094,POLG,missense,Mitochondrial DNA depletion syndrome,Mitochondrial DNA depletion syndrome 4A (MTDPS4A) [MIM:203700],203700,VAR_023664,SURF,NO
+rs113994094,POLG,missense,Mitochondrial DNA depletion syndrome,Mitochondrial DNA depletion syndrome 4B (MTDPS4B) [MIM:613662],613662,VAR_023664,SURF,NO
+rs137956605,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_006125,,NO
+rs121918166,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_006132,,NO
+rs199473054,SCN5A,missense,Brugada syndrome,Brugada syndrome 1 (BRGDA1) [MIM:601144],601144,VAR_055160,,NO
+rs183007628,RBM20,missense,Cardiomyopathy,"Cardiomyopathy, dilated 1DD (CMD1DD) [MIM:613172]",613172,VAR_068802,,NO
+rs189806840,DYNC2H1,missense,Short-rib thoracic dysplasia,Short-rib thoracic dysplasia 3 with or without polydactyly (SRTD3) [MIM:613091],613091,VAR_069596,,NO
+rs369588002,C10orf2,missense,Perrault syndrome,Perrault syndrome 5 (PRLTS5) [MIM:616138],616138,VAR_072659,,NO
+rs121908120,WNT10A,missense,Odonto-onycho-dermal dysplasia,Odonto-onycho-dermal dysplasia (OODD) [MIM:257980],257980,VAR_062511,,NO
+rs121908120,WNT10A,missense,"Tooth agenesis, selective,","Tooth agenesis, selective, 4 (STHAG4) [MIM:150400]",150400,VAR_062511,,NO
+rs139598219,NPHS1,missense,Nephrotic syndrome,Nephrotic syndrome 1 (NPHS1) [MIM:256300],256300,VAR_072376,,NO
+rs191807913,NPHS1,missense,Nephrotic syndrome,Nephrotic syndrome 1 (NPHS1) [MIM:256300],256300,VAR_064218,,NO
+rs74315318,GJB3,missense,Deafness,"Deafness, autosomal dominant, 2B (DFNA2B) [MIM:612644]",612644,VAR_002150,SURF,NO
+rs562449603,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_006300,SURF,NO
+rs537874538,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_067114,SURF,NO
+rs545585809,MYH7,missense,Cardiomyopathy,"Cardiomyopathy, familial hypertrophic 1 (CMH1) [MIM:192600]",192600,VAR_042836,,NO
+rs144586521,KAL1,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 1 with or without anosmia (HH1) [MIM:308700],308700,VAR_065364,,NO
+rs199473062,SCN5A,missense,Brugada syndrome,Brugada syndrome 1 (BRGDA1) [MIM:601144],601144,VAR_026344,,NO
+rs199473062,SCN5A,missense,Heart block,Progressive familial heart block 1A (PFHB1A) [MIM:113900],113900,VAR_026344,,NO
+rs57865060,CYP1B1,missense,Glaucoma,"Glaucoma 3, primary congenital, A (GLC3A) [MIM:231300]",231300,VAR_054243,SURF,NO
+rs57865060,CYP1B1,missense,Glaucoma,"Glaucoma, primary open angle (POAG) [MIM:137760]",137760,VAR_054243,SURF,NO
+rs61731387,PCDH15,missense,Usher syndrome,Usher syndrome 1F (USH1F) [MIM:602083],602083,VAR_024037,,NO
+rs139122673,MYOC,missense,Glaucoma,"Glaucoma 1, open angle, A (GLC1A) [MIM:137750]",137750,VAR_009676,SURF,NO
+rs573931674,PINK1,missense,Parkinson disease,Parkinson disease 6 (PARK6) [MIM:605909],605909,VAR_046581,,NO
+rs111033212,SLC26A4,missense,Deafness,"Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]",600791,VAR_021656,,NO
+rs111033212,SLC26A4,missense,Pendred syndrome,Pendred syndrome (PDS) [MIM:274600],274600,VAR_021656,,NO
+rs200511789,SLC26A4,missense,Deafness,"Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]",600791,VAR_021669,,NO
+rs148990138,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_019735,SURF,NO
+rs149953814,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_019766,SURF,NO
+rs200209833,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_072007,,NO
+rs143344549,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_054619,,NO
+rs79853121,RET,missense,Central hypoventilation syndrome,Congenital central hypoventilation syndrome (CCHS) [MIM:209880],209880,VAR_018157,,NO
+rs544053015,TYR,missense,Albinism,"Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]",203100,VAR_021688,,NO
+rs104894313,TYR,missense,Albinism,"Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]",203100,VAR_007689,,NO
+rs104894313,TYR,missense,Albinism,"Albinism, oculocutaneous, 1B (OCA1B) [MIM:606952]",606952,VAR_007689,,NO
+rs74315446,KCNE1,missense,Long QT syndrome,Long QT syndrome 5 (LQT5) [MIM:613695],613695,VAR_008900,SURF,NO
+rs137852517,KAL1,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 1 with or without anosmia (HH1) [MIM:308700],308700,VAR_031016,,NO
+rs137900287,KAL1,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 1 with or without anosmia (HH1) [MIM:308700],308700,VAR_069968,,NO
+rs74315294,CPT2,missense,Carnitine palmitoyltransferase deficiency,Carnitine palmitoyltransferase 2 deficiency late-onset (CPT2D) [MIM:255110],255110,VAR_001392,SURF,NO
+rs74315298,CPT2,missense,Carnitine palmitoyltransferase deficiency,Carnitine palmitoyltransferase 2 deficiency late-onset (CPT2D) [MIM:255110],255110,VAR_007967,BURIED,NO
+rs121918567,PRPH2,missense,Choroidal dystrophy,"Choroidal dystrophy, central areolar 2 (CACD2) [MIM:613105]",613105,VAR_032054,,NO
+rs113994096,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_023671,SURF,YES
+rs113994096,POLG,missense,Mitochondrial DNA depletion syndrome,Mitochondrial DNA depletion syndrome 4A (MTDPS4A) [MIM:203700],203700,VAR_023671,SURF,YES
+rs113994096,POLG,missense,Mitochondrial DNA depletion syndrome,Mitochondrial DNA depletion syndrome 4B (MTDPS4B) [MIM:613662],613662,VAR_023671,SURF,YES
+rs121909281,CAV3,missense,Sudden infant death syndrome,Sudden infant death syndrome (SIDS) [MIM:272120],272120,VAR_043694,,NO
+rs146815072,SLC7A9,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_072327,,NO
+rs183487020,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_020623,,NO
+rs190612616,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_020624,,NO
+rs199473059,SCN5A,missense,Long QT syndrome,Long QT syndrome 3 (LQT3) [MIM:603830],603830,VAR_068326,,NO
+rs199473147,SCN5A,missense,Brugada syndrome,Brugada syndrome 1 (BRGDA1) [MIM:601144],601144,VAR_074376,,NO
+rs199473147,SCN5A,missense,Long QT syndrome,Long QT syndrome 3 (LQT3) [MIM:603830],603830,VAR_074376,,NO
+rs150264233,SCN5A,missense,Long QT syndrome,Long QT syndrome 3 (LQT3) [MIM:603830],603830,VAR_055217,SURF,YES
+rs132630309,EDA,missense,Ectodermal dysplasia,"Ectodermal dysplasia 1, hypohidrotic, X-linked (XHED) [MIM:305100]",305100,VAR_005181,,NO
+rs192129249,CHD7,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 5 with or without anosmia (HH5) [MIM:612370],612370,VAR_068152,,NO
+rs111033220,SLC26A4,missense,Deafness,"Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]",600791,VAR_021661,,NO
+rs111033220,SLC26A4,missense,Pendred syndrome,Pendred syndrome (PDS) [MIM:274600],274600,VAR_021661,,NO
+rs532703934,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_019733,SURF,NO
+rs80358306,LRP5,missense,Exudative vitreoretinopathy,"Vitreoretinopathy, exudative 4 (EVR4) [MIM:601813]",601813,VAR_018465,SURF,NO
+rs201238640,USH2A,missense,Retinitis pigmentosa,Retinitis pigmentosa 39 (RP39) [MIM:613809],613809,VAR_025781,,NO
+rs201238640,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_025781,,NO
+rs183729115,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_067111,,NO
+rs111033299,GJB2,missense,Deafness,"Deafness, autosomal recessive, 1A (DFNB1A) [MIM:220290]",220290,VAR_002144,SURF,NO
+rs72546668,CAV3,missense,Long QT syndrome,Long QT syndrome 9 (LQT9) [MIM:611818],611818,VAR_043695,,NO
+rs72546668,CAV3,missense,Sudden infant death syndrome,Sudden infant death syndrome (SIDS) [MIM:272120],272120,VAR_043695,,NO
+rs79987078,SLC7A9,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_019002,BURIED,NO
+rs531029519,SLC7A9,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_072315,BURIED,NO
+rs144812594,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_006127,,NO
+rs140317484,SLC3A1,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_072292,SURF,NO
+rs199473187,SCN5A,missense,Long QT syndrome,Long QT syndrome 3 (LQT3) [MIM:603830],603830,VAR_068334,,NO
+rs199473603,SCN5A,missense,Long QT syndrome,Long QT syndrome 3 (LQT3) [MIM:603830],603830,VAR_008956,,NO
+rs41315493,SCN5A,missense,Atrial septal defect,"Atrial fibrillation, familial, 10 (ATFB10) [MIM:614022]",614022,VAR_055219,,NO
+rs146089505,DUSP6,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 19 with or without anosmia (HH19) [MIM:615269],615269,VAR_069946,SURF,NO
+rs138011813,BBS12,missense,Bardet-Biedl syndrome,Bardet-Biedl syndrome 12 (BBS12) [MIM:615989],615989,VAR_062965,SURF,YES
+rs138672528,PROKR2,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 3 with or without anosmia (HH3) [MIM:244200],244200,VAR_069964,SURF,NO
+rs74315359,PINK1,missense,Parkinson disease,Parkinson disease 6 (PARK6) [MIM:605909],605909,VAR_046589,SURF,NO
+rs367986918,NPHS1,missense,Nephrotic syndrome,Nephrotic syndrome 1 (NPHS1) [MIM:256300],256300,VAR_072379,,NO
+rs9282671,CYP1B1,missense,Glaucoma,"Glaucoma, primary open angle (POAG) [MIM:137760]",137760,VAR_028736,SURF,NO
+rs142327258,MKKS,missense,Bardet-Biedl syndrome,Bardet-Biedl syndrome 6 (BBS6) [MIM:605231],605231,VAR_038903,SURF,NO
+rs386833916,NPHS1,missense,Nephrotic syndrome,Nephrotic syndrome 1 (NPHS1) [MIM:256300],256300,VAR_064224,,NO
+rs267607570,LMNA,missense,Cardiomyopathy,"Cardiomyopathy, dilated 1A (CMD1A) [MIM:115200]",115200,VAR_070176,,NO
+rs536486113,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_009490,,NO
+rs137852752,BMPR2,missense,Pulmonary hypertension,"Pulmonary hypertension, primary, 1 (PPH1) [MIM:178600]",178600,VAR_033111,,NO
+rs121908499,KISS1R,missense,Precocious puberty,"Precocious puberty, central 1 (CPPB1) [MIM:176400]",176400,VAR_043907,,NO
+rs36033115,UROD,missense,Porphyria,Familial porphyria cutanea tarda (FPCT) [MIM:176100],176100,VAR_007913,SURF,NO
+rs61753185,TYR,missense,Albinism,"Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]",203100,VAR_007655,,NO
+rs150288991,TACR3,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 11 with or without anosmia (HH11) [MIM:614840],614840,VAR_069963,SURF,NO
+rs566081370,SCN1A,missense,Epilepsy,Intractable childhood epilepsy with generalized tonic-clonic seizures (ICEGTC) [MIM:607208],607208,VAR_073538,,NO
+rs139889944,MYO7A,missense,Usher syndrome,Usher syndrome 1B (USH1B) [MIM:276900],276900,VAR_009340,SURF,NO
+rs41261344,SCN5A,missense,Brugada syndrome,Brugada syndrome 1 (BRGDA1) [MIM:601144],601144,VAR_017678,,NO
+rs41261344,SCN5A,missense,Long QT syndrome,Long QT syndrome 3 (LQT3) [MIM:603830],603830,VAR_017678,,NO
+rs35507033,LRRK2,missense,Parkinson disease,Parkinson disease 8 (PARK8) [MIM:607060],607060,VAR_024948,,NO
+rs375798246,RBM20,missense,Cardiomyopathy,"Cardiomyopathy, dilated 1DD (CMD1DD) [MIM:613172]",613172,VAR_068806,,NO
+rs199746824,MYOC,missense,Glaucoma,"Glaucoma 1, open angle, A (GLC1A) [MIM:137750]",137750,VAR_054278,,NO
+rs61747728,NPHS2,missense,Nephrotic syndrome,Nephrotic syndrome 2 (NPHS2) [MIM:600995],600995,VAR_071230,,NO
+rs139401671,FZD4,missense,Exudative vitreoretinopathy,"Vitreoretinopathy, exudative 1 (EVR1) [MIM:133780]",133780,VAR_063922,,NO
+rs121912771,COL17A1,missense,Epidermolysis bullosa,Generalized atrophic benign epidermolysis bullosa (GABEB) [MIM:226650],226650,VAR_017601,,NO
+rs539699299,SLC26A4,missense,Deafness,"Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]",600791,VAR_021639,,NO
+rs539699299,SLC26A4,missense,Pendred syndrome,Pendred syndrome (PDS) [MIM:274600],274600,VAR_021639,,NO
+rs121908362,SLC26A4,missense,Deafness,"Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]",600791,VAR_007449,,NO
+rs121908362,SLC26A4,missense,Pendred syndrome,Pendred syndrome (PDS) [MIM:274600],274600,VAR_007449,,NO
+rs201863550,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_072023,,NO
+rs72653759,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_013370,,NO
+rs116233118,UROD,missense,Porphyria,Familial porphyria cutanea tarda (FPCT) [MIM:176100],176100,VAR_007915,SURF,NO
+rs200127630,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_067120,SURF,NO
+rs199771303,KAL1,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 1 with or without anosmia (HH1) [MIM:308700],308700,VAR_072992,,NO
+rs104894408,GJB2,missense,Keratitis-ichthyosis-deafness syndrome,Keratitis-ichthyosis-deafness syndrome (KID syndrome) [MIM:148210],148210,VAR_015453,SURF,YES
+rs104893836,GNRHR,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 7 with or without anosmia (HH7) [MIM:146110],146110,VAR_019313,SURF,NO
+rs137852785,PDX1,missense,Maturity-onset diabetes of the young,Maturity-onset diabetes of the young 4 (MODY4) [MIM:606392],606392,VAR_009309,,NO
+rs121918054,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_058885,SURF,NO
+rs121908480,SLC7A9,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_010256,SURF,NO
+rs61738394,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_006117,,NO
+rs137853579,IL10RA,missense,Inflammatory bowel disease,Inflammatory bowel disease 28 (IBD28) [MIM:613148],613148,VAR_063543,BURIED,NO
+rs74315416,PROKR2,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 3 with or without anosmia (HH3) [MIM:244200],244200,VAR_030960,SURF,YES
+rs141521925,BBS10,missense,Bardet-Biedl syndrome,Bardet-Biedl syndrome 10 (BBS10) [MIM:615987],615987,VAR_026404,,NO
+rs138656762,NPHS1,missense,Nephrotic syndrome,Nephrotic syndrome 1 (NPHS1) [MIM:256300],256300,VAR_064228,,NO
+rs60662302,LMNA,missense,Emery-Dreifuss muscular dystrophy,"Emery-Dreifuss muscular dystrophy 2, autosomal dominant (EDMD2) [MIM:181350]",181350,VAR_064976,,NO
+rs119103251,PYGM,missense,Glycogen storage disease,Glycogen storage disease 5 (GSD5) [MIM:232600],232600,VAR_003431,SURF,NO
+rs28933375,PRF1,missense,Hemophagocytic lymphohistiocytosis,Familial hemophagocytic lymphohistiocytosis 2 (FHL2) [MIM:603553],603553,VAR_010746,SURF,NO
+rs144900788,GNRHR,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 7 with or without anosmia (HH7) [MIM:146110],146110,VAR_072973,SURF,NO
+rs120074193,KCNQ1,missense,Long QT syndrome,Long QT syndrome 1 (LQT1) [MIM:192500],192500,VAR_009925,,NO
+rs113994098,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_023675,SURF,NO
+rs113994098,POLG,missense,Leigh syndrome,Leigh syndrome (LS) [MIM:256000],256000,VAR_023675,SURF,NO
+rs113994098,POLG,missense,Mitochondrial DNA depletion syndrome,Mitochondrial DNA depletion syndrome 4A (MTDPS4A) [MIM:203700],203700,VAR_023675,SURF,NO
+rs113994098,POLG,missense,Mitochondrial DNA depletion syndrome,Mitochondrial DNA depletion syndrome 4B (MTDPS4B) [MIM:613662],613662,VAR_023675,SURF,NO
+rs138776684,KCNH2,missense,Long QT syndrome,Long QT syndrome 2 (LQT2) [MIM:613688],613688,VAR_009912,,NO
+rs199472918,KCNH2,missense,Long QT syndrome,Long QT syndrome 2 (LQT2) [MIM:613688],613688,VAR_008918,,NO
+rs148542782,CYP1B1,missense,Glaucoma,"Glaucoma 3, primary congenital, A (GLC3A) [MIM:231300]",231300,VAR_054256,BURIED,NO
+rs33958906,LRRK2,missense,Parkinson disease,Parkinson disease 8 (PARK8) [MIM:607060],607060,VAR_024949,,NO
+rs34637584,LRRK2,missense,Parkinson disease,Parkinson disease 8 (PARK8) [MIM:607060],607060,VAR_024958,SURF,NO
+rs201835496,PROKR2,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 3 with or without anosmia (HH3) [MIM:244200],244200,VAR_030961,SURF,NO
+rs141947938,CHD7,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 5 with or without anosmia (HH5) [MIM:612370],612370,VAR_068116,,NO
+rs553073635,SLC45A2,missense,Albinism,"Albinism, oculocutaneous, 4 (OCA4) [MIM:606574]",606574,VAR_067073,,NO
+rs59780231,KRT14,missense,Epidermolysis bullosa,"Epidermolysis bullosa simplex, Koebner type (K-EBS) [MIM:131900]",131900,VAR_023725,SURF,NO
+rs149513065,RET,missense,Hirschsprung disease,Hirschsprung disease 1 (HSCR1) [MIM:142623],142623,VAR_009491,,NO
+rs118203906,F5,missense,Thrombophilia,Thrombophilia due to activated protein C resistance (THPH2) [MIM:188055],188055,VAR_013621,SURF,NO
+rs113994095,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_012155,SURF,NO
+rs113994095,POLG,missense,Mitochondrial DNA depletion syndrome,Mitochondrial DNA depletion syndrome 4A (MTDPS4A) [MIM:203700],203700,VAR_012155,SURF,NO
+rs113994095,POLG,missense,Sensory ataxic neuropathy dysarthria and ophthalmoparesis,Sensory ataxic neuropathy dysarthria and ophthalmoparesis (SANDO) [MIM:607459],607459,VAR_012155,SURF,NO
+rs113994095,POLG,missense,Spinocerebellar ataxia,Spinocerebellar ataxia with epilepsy (SCAE) [MIM:607459],607459,VAR_012155,SURF,NO
+rs79389353,SLC7A9,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_010258,SURF,NO
+rs74653330,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_007940,,NO
+rs121912691,SLC3A1,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_011427,BURIED,NO
+rs368341987,MYO7A,missense,Usher syndrome,Usher syndrome 1B (USH1B) [MIM:276900],276900,VAR_009332,SURF,NO
+rs35602796,LRRK2,missense,Parkinson disease,Parkinson disease 8 (PARK8) [MIM:607060],607060,VAR_024955,,NO
+rs137853028,DYNC2H1,missense,Short-rib thoracic dysplasia,Short-rib thoracic dysplasia 3 with or without polydactyly (SRTD3) [MIM:613091],613091,VAR_063244,,NO
+rs184758350,IL17RD,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 18 with or without anosmia (HH18) [MIM:615267],615267,VAR_069936,,NO
+rs561887984,NPHS2,missense,Nephrotic syndrome,Nephrotic syndrome 2 (NPHS2) [MIM:600995],600995,VAR_071212,,NO
+rs61753399,CHD7,missense,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism 5 with or without anosmia (HH5) [MIM:612370],612370,VAR_068146,,NO
+rs74315448,KCNE2,missense,Long QT syndrome,Long QT syndrome 6 (LQT6) [MIM:613693],613693,VAR_008378,SURF,NO
+rs566229879,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_019739,,NO
+rs35818432,USH2A,missense,Usher syndrome,Usher syndrome 2A (USH2A) [MIM:276901],276901,VAR_025770,SURF,NO
+rs118204114,HMBS,missense,Porphyria,Acute intermittent porphyria (AIP) [MIM:176000],176000,VAR_003668,BURIED,NO
+rs186964570,MYH7,missense,Cardiomyopathy,"Cardiomyopathy, familial hypertrophic 1 (CMH1) [MIM:192600]",192600,VAR_004566,SURF,NO
+rs121913644,MYH7,missense,Cardiomyopathy,"Cardiomyopathy, familial hypertrophic 1 (CMH1) [MIM:192600]",192600,VAR_017750,SURF,NO
+rs373967247,SCN1A,missense,Epilepsy,Intractable childhood epilepsy with generalized tonic-clonic seizures (ICEGTC) [MIM:607208],607208,VAR_073608,,NO
+rs61752783,POLG,missense,Sensory ataxic neuropathy dysarthria and ophthalmoparesis,Sensory ataxic neuropathy dysarthria and ophthalmoparesis (SANDO) [MIM:607459],607459,VAR_058879,SURF,NO
+rs61745150,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_006124,,NO
+rs140967767,MYOC,missense,Glaucoma,"Glaucoma 1, open angle, A (GLC1A) [MIM:137750]",137750,VAR_009691,SURF,NO
+rs137853909,MKKS,missense,Bardet-Biedl syndrome,Bardet-Biedl syndrome 6 (BBS6) [MIM:605231],605231,VAR_017041,SURF,NO
+rs80358293,FZD4,missense,Exudative vitreoretinopathy,"Vitreoretinopathy, exudative 1 (EVR1) [MIM:133780]",133780,VAR_063934,,NO
+rs121912559,MYO6,missense,Deafness,"Deafness, autosomal recessive, 37 (DFNB37) [MIM:607821]",607821,VAR_016209,SURF,NO
+rs34424986,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_019752,SURF,NO
+rs34424986,PARK2,missense,Parkinson disease,Parkinson disease (PARK) [MIM:168600],168600,VAR_019752,SURF,NO
+rs201527662,USH2A,missense,Retinitis pigmentosa,Retinitis pigmentosa 39 (RP39) [MIM:613809],613809,VAR_072000,,NO
+rs72653761,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_067849,,NO
+rs72653788,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_067873,SURF,NO
+rs63750402,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_067899,,NO
+rs63750759,ABCC6,missense,Arterial calcification,"Arterial calcification of infancy, generalized, 2 (GACI2) [MIM:614473]",614473,VAR_011495,SURF,NO
+rs63750759,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_011495,SURF,NO
+rs63750428,ABCC6,missense,Pseudoxanthoma elasticum,Pseudoxanthoma elasticum (PXE) [MIM:264800],264800,VAR_067906,SURF,NO
+rs61753184,TYR,missense,Albinism,"Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]",203100,VAR_007656,,NO
+rs563581127,PRPH2,missense,Choroidal dystrophy,"Choroidal dystrophy, central areolar 2 (CACD2) [MIM:613105]",613105,VAR_075758,,NO
+rs80338948,GJB2,missense,Deafness,"Deafness, autosomal recessive, 1A (DFNB1A) [MIM:220290]",220290,VAR_015460,SURF,NO
+rs140452381,KCNQ1,missense,Long QT syndrome,Long QT syndrome 1 (LQT1) [MIM:192500],192500,VAR_068314,,NO
+rs556925652,POLG,missense,Cataract,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]",258450,VAR_023670,SURF,YES
+rs554862186,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_020622,,NO
+rs143218168,OCA2,missense,Albinism,"Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]",203200,VAR_006129,,NO
+rs201502095,SLC3A1,missense,Cystinuria,Cystinuria (CSNU) [MIM:220100],220100,VAR_011425,BURIED,NO
+rs200120115,MYOC,missense,Glaucoma,"Glaucoma 1, open angle, A (GLC1A) [MIM:137750]",137750,VAR_054277,,NO
+rs74315348,NPHS2,missense,Nephrotic syndrome,Nephrotic syndrome 2 (NPHS2) [MIM:600995],600995,VAR_010236,,NO
+rs201562855,SLC26A4,missense,Deafness,"Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]",600791,VAR_021658,,NO
+rs137853058,PARK2,missense,Parkinson disease,Parkinson disease 2 (PARK2) [MIM:600116],600116,VAR_019746,BURIED,NO
+rs1800562,HFE,missense,Hemochromatosis,Hemochromatosis 1 (HFE1) [MIM:235200],235200,VAR_004398,BURIED,NO
+rs80358282,FZD4,missense,Exudative vitreoretinopathy,"Vitreoretinopathy, exudative 1 (EVR1) [MIM:133780]",133780,VAR_063923,SURF,NO

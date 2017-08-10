@@ -1,0 +1,133 @@
+ID	Gene_name	Variant_effect	DISEASE_GROUP	DISEASE	MIM	SWISSVAR_ID	STRUCT_CLASS	INTERFACE
+1	KCNQ1	missense	Long QT syndrome	Long QT syndrome 1 (LQT1) [MIM:192500]	192500	VAR_001538	SURF	NO
+7	SLC26A4	missense	Pendred syndrome	Pendred syndrome (PDS) [MIM:274600]	274600	VAR_021640		NO
+9	CDH23	missense	Deafness	Deafness, autosomal recessive, 12 (DFNB12) [MIM:601386]	601386	VAR_027333		NO
+14	CDH23	missense	Usher syndrome	Usher syndrome 1D/F (USH1DF) [MIM:601067]	601067	VAR_024033	SURF	YES
+14	CDH23	missense	Usher syndrome	Usher syndrome 1D (USH1D) [MIM:601067]	601067	VAR_024033	SURF	YES
+15	CDH23	missense	Usher syndrome	Usher syndrome 1D (USH1D) [MIM:601067]	601067	VAR_024031		NO
+18	NPHS2	missense	Nephrotic syndrome	Nephrotic syndrome 2 (NPHS2) [MIM:600995]	600995	VAR_010233		NO
+20	PROKR2	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 3 with or without anosmia (HH3) [MIM:244200]	244200	VAR_030960	SURF	YES
+21	KAL1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 1 with or without anosmia (HH1) [MIM:308700]	308700	VAR_031016		NO
+22	FGFR1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 2 with or without anosmia (HH2) [MIM:147950]	147950	VAR_069954	SURF	YES
+24	FGFR1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 2 with or without anosmia (HH2) [MIM:147950]	147950	VAR_069292	SURF	YES
+25	GNRHR	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 7 with or without anosmia (HH7) [MIM:146110]	146110	VAR_019313	SURF	NO
+27	KAL1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 1 with or without anosmia (HH1) [MIM:308700]	308700	VAR_012742		NO
+33	TJP2	missense	Hypercholanemia	Familial hypercholanemia (FHCA) [MIM:607748]	607748	VAR_016004	SURF	NO
+43	CYP1B1	missense	Glaucoma	Glaucoma 1, open angle, A (GLC1A) [MIM:137750]	137750	VAR_016034	SURF	NO
+43	CYP1B1	missense	Glaucoma	Glaucoma 3, primary congenital, A (GLC3A) [MIM:231300]	231300	VAR_016034	SURF	NO
+44	MYOC	missense	Glaucoma	Glaucoma 1, open angle, A (GLC1A) [MIM:137750]	137750	VAR_054300	BURIED	NO
+45	MYOC	missense	Glaucoma	Glaucoma 1, open angle, A (GLC1A) [MIM:137750]	137750	VAR_054272		NO
+45	MYOC	missense	Glaucoma	Glaucoma 3, primary congenital, A (GLC3A) [MIM:231300]	231300	VAR_054272		NO
+48	OCA2	missense	Albinism	Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]	203200	VAR_006132		NO
+50	OCA2	missense	Albinism	Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]	203200	VAR_006117		NO
+55	FGA	missense	Dysfibrinogenemia	Dysfibrinogenemia, congenital (DYSFIBRIN) [MIM:616004]	616004	VAR_002392	SURF	YES
+56	SLC3A1	missense	Cystinuria	Cystinuria (CSNU) [MIM:220100]	220100	VAR_011427	BURIED	NO
+57	SLC7A9	missense	Cystinuria	Cystinuria (CSNU) [MIM:220100]	220100	VAR_072317	BURIED	NO
+58	SLC7A9	missense	Cystinuria	Cystinuria (CSNU) [MIM:220100]	220100	VAR_010256	SURF	NO
+59	SLC3A1	missense	Cystinuria	Cystinuria (CSNU) [MIM:220100]	220100	VAR_022600	BURIED	NO
+61	FZD4	missense	Exudative vitreoretinopathy	Vitreoretinopathy, exudative 1 (EVR1) [MIM:133780]	133780	VAR_063936		NO
+62	LRP5	missense	Exudative vitreoretinopathy	Vitreoretinopathy, exudative 4 (EVR4) [MIM:601813]	601813	VAR_063957	SURF	NO
+63	HAMP	missense	Hemochromatosis	Hemochromatosis 2B (HFE2B) [MIM:613313]	613313	VAR_026648	SURF	YES
+69	CPOX	missense	Coproporphyria	Hereditary coproporphyria (HCP) [MIM:121300]	121300	VAR_058005	BURIED	NO
+71	POLG	missense	Cataract	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive, 1 (PEOB1) [MIM:258450]	258450	VAR_023675	SURF	NO
+71	POLG	missense	Leigh syndrome	Leigh syndrome (LS) [MIM:256000]	256000	VAR_023675	SURF	NO
+71	POLG	missense	Mitochondrial DNA depletion syndrome	Mitochondrial DNA depletion syndrome 4A (MTDPS4A) [MIM:203700]	203700	VAR_023675	SURF	NO
+71	POLG	missense	Mitochondrial DNA depletion syndrome	Mitochondrial DNA depletion syndrome 4B (MTDPS4B) [MIM:613662]	613662	VAR_023675	SURF	NO
+72	SCN1A	missense	Epilepsy	Generalized epilepsy with febrile seizures plus 2 (GEFS+2) [MIM:604403]	604403	VAR_029715		NO
+78	KRT14	missense	Epidermolysis bullosa	Epidermolysis bullosa simplex, Weber-Cockayne type (WC-EBS) [MIM:131800]	131800	VAR_031637	SURF	YES
+84	HFE	missense	Hemochromatosis	Hemochromatosis 1 (HFE1) [MIM:235200]	235200	VAR_004398	BURIED	NO
+86	KCNQ1	missense	Long QT syndrome	Long QT syndrome 1 (LQT1) [MIM:192500]	192500	VAR_001539	SURF	NO
+87	KCNE1	missense	Long QT syndrome	Long QT syndrome 5 (LQT5) [MIM:613695]	613695	VAR_009908	SURF	NO
+88	KCNQ1	missense	Long QT syndrome	Long QT syndrome 1 (LQT1) [MIM:192500]	192500	VAR_001516		NO
+90	KCNQ1	missense	Long QT syndrome	Long QT syndrome 1 (LQT1) [MIM:192500]	192500	VAR_001530		NO
+91	KCNQ1	missense	Long QT syndrome	Long QT syndrome 1 (LQT1) [MIM:192500]	192500	VAR_001520		NO
+92	KCNH2	missense	Long QT syndrome	Long QT syndrome 2 (LQT2) [MIM:613688]	613688	VAR_014390		NO
+93	KCNE1	missense	Long QT syndrome	Long QT syndrome 5 (LQT5) [MIM:613695]	613695	VAR_008900	SURF	NO
+94	KCNH2	missense	Long QT syndrome	Long QT syndrome 2 (LQT2) [MIM:613688]	613688	VAR_008580		NO
+95	KCNH2	missense	Long QT syndrome	Long QT syndrome 2 (LQT2) [MIM:613688]	613688	VAR_014387	SURF	NO
+97	KCNH2	missense	Long QT syndrome	Long QT syndrome 2 (LQT2) [MIM:613688]	613688	VAR_014382		NO
+98	KCNH2	missense	Long QT syndrome	Long QT syndrome 2 (LQT2) [MIM:613688]	613688	VAR_009916	SURF	NO
+100	SCN5A	missense	Long QT syndrome	Long QT syndrome 3 (LQT3) [MIM:603830]	603830	VAR_001579		NO
+102	SCN5A	missense	Brugada syndrome	Brugada syndrome 1 (BRGDA1) [MIM:601144]	601144	VAR_001578		NO
+102	SCN5A	missense	Long QT syndrome	Long QT syndrome 3 (LQT3) [MIM:603830]	603830	VAR_001578		NO
+105	KCNQ1	missense	Long QT syndrome	Long QT syndrome 1 (LQT1) [MIM:192500]	192500	VAR_074688		NO
+106	KCNH2	missense	Long QT syndrome	Long QT syndrome 2 (LQT2) [MIM:613688]	613688	VAR_036677		NO
+107	SCN5A	missense	Long QT syndrome	Long QT syndrome 3 (LQT3) [MIM:603830]	603830	VAR_036668	SURF	NO
+108	KCNH2	missense	Long QT syndrome	Long QT syndrome 2 (LQT2) [MIM:613688]	613688	VAR_036669	SURF	NO
+109	KCNE2	missense	Long QT syndrome	Long QT syndrome 6 (LQT6) [MIM:613693]	613693	VAR_029334	SURF	NO
+110	CAV3	missense	Long QT syndrome	Long QT syndrome 9 (LQT9) [MIM:611818]	611818	VAR_043695		NO
+110	CAV3	missense	Sudden infant death syndrome	Sudden infant death syndrome (SIDS) [MIM:272120]	272120	VAR_043695		NO
+111	KCNH2	missense	Long QT syndrome	Long QT syndrome 2 (LQT2) [MIM:613688]	613688	VAR_068282		NO
+112	BBS2	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 2 (BBS2) [MIM:615981]	615981	VAR_013162		NO
+113	MKKS	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 6 (BBS6) [MIM:605231]	605231	VAR_009864	BURIED	NO
+113	MKKS	missense	McKusick-Kaufman syndrome	McKusick-Kaufman syndrome (MKKS) [MIM:236700]	236700	VAR_009864	BURIED	NO
+118	BBS4	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 4 (BBS4) [MIM:615982]	615982	VAR_017051	BURIED	NO
+119	BBS2	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 2 (BBS2) [MIM:615981]	615981	VAR_013168		NO
+120	BBS1	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 1 (BBS1) [MIM:209900]	209900	VAR_017215	SURF	NO
+121	BBS7	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 7 (BBS7) [MIM:615984]	615984	VAR_017212		NO
+123	BBS1	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 1 (BBS1) [MIM:209900]	209900	VAR_017216	BURIED	NO
+124	MKKS	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 6 (BBS6) [MIM:605231]	605231	VAR_017036	SURF	NO
+127	BBS2	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 2 (BBS2) [MIM:615981]	615981	VAR_038891		NO
+128	BBS4	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 4 (BBS4) [MIM:615982]	615982	VAR_017053		NO
+130	BBS4	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 4 (BBS4) [MIM:615982]	615982	VAR_038897		NO
+131	BBS2	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 2 (BBS2) [MIM:615981]	615981	VAR_038892		NO
+136	BBS7	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 7 (BBS7) [MIM:615984]	615984	VAR_066286		NO
+140	BBS2	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 2 (BBS2) [MIM:615981]	615981	VAR_013164		NO
+140	BBS2	missense	Retinitis pigmentosa	Retinitis pigmentosa 74 (RP74) [MIM:616562]	616562	VAR_013164		NO
+141	BBS2	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 2 (BBS2) [MIM:615981]	615981	VAR_013169		NO
+141	BBS2	missense	Retinitis pigmentosa	Retinitis pigmentosa 74 (RP74) [MIM:616562]	616562	VAR_013169		NO
+144	BBS10	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 10 (BBS10) [MIM:615987]	615987	VAR_026393		NO
+149	BBS10	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 10 (BBS10) [MIM:615987]	615987	VAR_066252		NO
+153	BBS10	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 10 (BBS10) [MIM:615987]	615987	VAR_066257		NO
+168	MKKS	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 6 (BBS6) [MIM:605231]	605231	VAR_017041	SURF	NO
+171	BBS10	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 10 (BBS10) [MIM:615987]	615987	VAR_026392		NO
+180	ARL6	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 3 (BBS3) [MIM:600151]	600151	VAR_027643	SURF	NO
+184	BBS12	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 12 (BBS12) [MIM:615989]	615989	VAR_034922		NO
+186	NPHS2	missense	Nephrotic syndrome	Nephrotic syndrome 2 (NPHS2) [MIM:600995]	600995	VAR_071228		NO
+191	NPHS1	missense	Nephrotic syndrome	Nephrotic syndrome 1 (NPHS1) [MIM:256300]	256300	VAR_013040		NO
+192	TYR	missense	Albinism	Albinism, oculocutaneous, 1A (OCA1A) [MIM:203100]	203100	VAR_007655		NO
+193	SLC45A2	missense	Albinism	Albinism, oculocutaneous, 4 (OCA4) [MIM:606574]	606574	VAR_073170		NO
+195	SLC45A2	missense	Albinism	Albinism, oculocutaneous, 4 (OCA4) [MIM:606574]	606574	VAR_073168		NO
+199	OCA2	missense	Albinism	Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]	203200	VAR_007940		NO
+203	EDA	missense	Ectodermal dysplasia	Ectodermal dysplasia 1, hypohidrotic, X-linked (XHED) [MIM:305100]	305100	VAR_005189	SURF	YES
+205	MTR	missense	Homocystinuria-megaloblastic anemia	Homocystinuria-megaloblastic anemia, cblG complementation type (HMAG) [MIM:250940]	250940	VAR_004331	BURIED	YES
+212	EDA	missense	Ectodermal dysplasia	Ectodermal dysplasia 1, hypohidrotic, X-linked (XHED) [MIM:305100]	305100	VAR_054454		NO
+215	MYO6	missense	Deafness	Deafness, sensorineural, with hypertrophic cardiomyopathy (DFNHCM) [MIM:606346]	606346	VAR_029988	BURIED	NO
+217	CPT2	missense	Carnitine palmitoyltransferase deficiency	Carnitine palmitoyltransferase 2 deficiency late-onset (CPT2D) [MIM:255110]	255110	VAR_001392	SURF	NO
+219	FGFR1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 2 with or without anosmia (HH2) [MIM:147950]	147950	VAR_069288	SURF	NO
+220	GNRHR	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 7 with or without anosmia (HH7) [MIM:146110]	146110	VAR_069960	BURIED	NO
+223	FGFR1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 2 with or without anosmia (HH2) [MIM:147950]	147950	VAR_069289	BURIED	NO
+224	KISS1R	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 8 with or without anosmia (HH8) [MIM:614837]	614837	VAR_069961		NO
+225	PROK2	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 4 with or without anosmia (HH4) [MIM:610628]	610628	VAR_069970		NO
+226	PROKR2	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 3 with or without anosmia (HH3) [MIM:244200]	244200	VAR_069964	SURF	NO
+230	SCN5A	missense	Atrial septal defect	Atrial fibrillation, familial, 10 (ATFB10) [MIM:614022]	614022	VAR_055178		NO
+230	SCN5A	missense	Long QT syndrome	Long QT syndrome 3 (LQT3) [MIM:603830]	603830	VAR_055178		NO
+231	KCNQ1	missense	Long QT syndrome	Long QT syndrome 1 (LQT1) [MIM:192500]	192500	VAR_001522		NO
+234	SLC26A4	missense	Deafness	Deafness, autosomal recessive, 4 (DFNB4) [MIM:600791]	600791	VAR_021656		NO
+234	SLC26A4	missense	Pendred syndrome	Pendred syndrome (PDS) [MIM:274600]	274600	VAR_021656		NO
+247	MYO7A	missense	Usher syndrome	Usher syndrome 1B (USH1B) [MIM:276900]	276900	VAR_024047	SURF	NO
+248	CDH23	missense	Deafness	Deafness, autosomal recessive, 12 (DFNB12) [MIM:601386]	601386	VAR_027323		NO
+258	USH2A	missense	Usher syndrome	Usher syndrome 2A (USH2A) [MIM:276901]	276901	VAR_025769	SURF	NO
+266	IL17RD	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 18 with or without anosmia (HH18) [MIM:615267]	615267	VAR_069939		NO
+267	FGFR1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 2 with or without anosmia (HH2) [MIM:147950]	147950	VAR_069955	SURF	YES
+268	IL17RD	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 18 with or without anosmia (HH18) [MIM:615267]	615267	VAR_069942		NO
+269	KISS1R	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 8 with or without anosmia (HH8) [MIM:614837]	614837	VAR_069962		NO
+270	DUSP6	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 19 with or without anosmia (HH19) [MIM:615269]	615269	VAR_069944		NO
+271	FGFR1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 2 with or without anosmia (HH2) [MIM:147950]	147950	VAR_069958	BURIED	NO
+272	DUSP6	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 19 with or without anosmia (HH19) [MIM:615269]	615269	VAR_069945		NO
+274	DUSP6	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 19 with or without anosmia (HH19) [MIM:615269]	615269	VAR_069946	SURF	NO
+275	FGFR1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 2 with or without anosmia (HH2) [MIM:147950]	147950	VAR_069956	SURF	NO
+276	FGFR1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 2 with or without anosmia (HH2) [MIM:147950]	147950	VAR_069957	SURF	NO
+277	FLRT3	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 21 with or without anosmia (HH21) [MIM:615271]	615271	VAR_069950	SURF	NO
+283	NPHS2	missense	Nephrotic syndrome	Nephrotic syndrome 2 (NPHS2) [MIM:600995]	600995	VAR_071230		NO
+284	NPHS1	missense	Nephrotic syndrome	Nephrotic syndrome 1 (NPHS1) [MIM:256300]	256300	VAR_072375		NO
+286	EDA	missense	Ectodermal dysplasia	Ectodermal dysplasia 1, hypohidrotic, X-linked (XHED) [MIM:305100]	305100	VAR_005183		NO
+287	USH2A	missense	Usher syndrome	Usher syndrome 2A (USH2A) [MIM:276901]	276901	VAR_054614		NO
+289	MKKS	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 6 (BBS6) [MIM:605231]	605231	VAR_013161	SURF	NO
+290	BBS2	missense	Bardet-Biedl syndrome	Bardet-Biedl syndrome 2 (BBS2) [MIM:615981]	615981	VAR_013166		NO
+293	KAL1	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 1 with or without anosmia (HH1) [MIM:308700]	308700	VAR_069968		NO
+295	LMNA	missense	Charcot-Marie-Tooth disease	Charcot-Marie-Tooth disease 2B1 (CMT2B1) [MIM:605588]	605588	VAR_017661		NO
+335	C10orf2	missense	Progressive external ophthalmoplegia	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant, 3 (PEOA3) [MIM:609286]	609286	VAR_023660		NO
+350	BMPR2	missense	Pulmonary hypertension	Pulmonary hypertension, primary, 1 (PPH1) [MIM:178600]	178600	VAR_013681	SURF	NO
+359	GNRHR	missense	Hypogonadotropic hypogonadism	Hypogonadotropic hypogonadism 7 with or without anosmia (HH7) [MIM:146110]	146110	VAR_019312	BURIED	NO
+370	PRPH2	missense	Retinitis pigmentosa	Retinitis pigmentosa 7 (RP7) [MIM:608133]	608133	VAR_006871		NO
