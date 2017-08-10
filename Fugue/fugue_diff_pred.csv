@@ -1,0 +1,242 @@
+ID,Gene_name,Variant_effect,prediction_wt,weight_wt,prediction_mut,weight_mut,difference,weight,difference_envt,weight_envt
+1,KCNQ1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+4,GJB3,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+5,GJB3,missense,x,0,x,0,0,0 to 0,0,3200-0000 to 3200-0000
+7,SLC26A4,missense,A,9,A,9,0,9 to 9,0,0009-9999 to 0009-9999
+8,FOXI1,missense,E,3,x,0,E to x,3 to 0,xPPO-EBBx to xxxx-xxxx,0333-3210 to 0000-0000
+9,CDH23,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+10,ATP2B2,missense,x,0,A,9,x to A,0 to 9,xxxx-xxxx to xAAA-AAAA,0000-0000 to 0479-9974
+14,CDH23,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+15,CDH23,missense,A,2,A,2,0,2 to 2,0,0000-3333 to 0000-3333
+17,DYNC2H1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+18,NPHS2,missense,x,0,x,0,0,0 to 0,0,0000-0001 to 0000-0001
+20,PROKR2,missense,A,2,x,0,A to x,2 to 0,AAAA-AAAA to xxxx-xxxx,1222-4333 to 0000-0000
+21,KAL1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+22,FGFR1,missense,x,0,B,1,x to B,0 to 1,xxxx-xxxx to BBBB-xxxx,0000-0000 to 1111-0000
+24,FGFR1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+25,GNRHR,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+26,GNRHR,missense,A,9,A,9,0,9 to 9,0,0599-9999 to 0599-9999
+27,KAL1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+28,NSMF,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+33,TJP2,missense,B,1,B,2,0,1 to 2,BEBB-xxxx to BEBB-Cxxx,1111-0000 to 2222-1000
+35,OTUD4,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+36,RNF216,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+37,EDNRB,missense,C,9,G,9,C to G,9 to 9,AAAA-GAAA to AAAA-GAAx,9999-9962 to 9999-9990
+39,PARK7,missense,x,0,x,0,0,0 to 0,0,1100-0000 to 3200-0000
+40,PINK1,missense,x,0,x,0,0,0 to 0,xxxx-xxBB to xxxx-xxxx,0000-0011 to 0000-0000
+43,CYP1B1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+44,MYOC,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+45,MYOC,missense,B,2,B,2,0,2 to 2,0,0000-3333 to 0000-3333
+47,TYR,missense,A,9,A,9,0,9 to 9,0,9999-9400 to 9999-9500
+48,OCA2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+50,OCA2,missense,x,0,x,0,0,0 to 0,0,0000-2333 to 0000-2333
+54,FGG,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+55,FGA,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+56,SLC3A1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+57,SLC7A9,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+58,SLC7A9,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+59,SLC3A1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+61,FZD4,missense,x,0,x,0,0,0 to 0,0,6653-0000 to 9974-0000
+62,LRP5,missense,B,2,B,8,0,2 to 8,BBBB-xxxx to BBBB-CGxx,3333-0000 to 7999-6300
+63,HAMP,missense,x,0,x,0,0,0 to 0,BBBC-xxxx to BBBB-xxxx,9864-0000 to 9753-0000
+66,LMNA,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+67,GDAP1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+69,CPOX,missense,E,1,x,0,E to x,1 to 0,xxBE-EPxx to xxxx-xxxx,0011-1100 to 0000-0000
+70,ALAD,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+71,POLG,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+72,SCN1A,missense,x,0,B,1,x to B,0 to 1,xxxx-xxxx to xxBB-BCxx,0000-0000 to 0011-1100
+73,SCN2A,missense,x,0,x,0,0,0 to 0,xxxx-xxxx to Axxx-xxxx,0000-0000 to 1000-0000
+75,GGCX,missense,x,0,x,0,0,0 to 0,xxxx-xxxx to AAAA-xxxx,0000-0000 to 9962-0000
+76,PITX2,missense,x,0,x,0,0,0 to 0,0,0000-6999 to 0000-6999
+78,KRT14,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+79,KRT5,missense,x,0,x,0,0,0 to 0,xxxx-AAAA to xxxx-xxxx,0000-5999 to 0000-0000
+80,F5,missense,C,9,x,0,C to x,9 to 0,xxAA-GAAA to xxxx-GAAA,0039-9999 to 0000-6999
+84,HFE,missense,B,1,B,1,0,1 to 1,0,0111-1000 to 0111-1000
+86,KCNQ1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+87,KCNE1,missense,O,1,x,0,O to x,1 to 0,xxCP-POxx to xxxx-xxxx,0011-1100 to 0000-0000
+88,KCNQ1,missense,x,0,x,0,0,0 to 0,0,3332-0000 to 3332-0000
+89,KCNE1,missense,C,3,C,3,0,3 to 3,0,1110-5666 to 1110-5666
+90,KCNQ1,missense,B,9,B,9,0,9 to 9,0,9999-9500 to 9999-9500
+91,KCNQ1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+92,KCNH2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+93,KCNE1,missense,x,0,x,0,0,0 to 0,0,0000-1111 to 0000-1111
+94,KCNH2,missense,A,7,A,7,0,7 to 7,0,9999-4000 to 9999-4000
+95,KCNH2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+97,KCNH2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+98,KCNH2,missense,x,0,x,0,0,0 to 0,0,1100-0000 to 1100-0000
+99,KCNH2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+100,SCN5A,missense,x,0,x,0,0,0 to 0,0,0000-6999 to 0000-6999
+101,KCNE1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+102,SCN5A,missense,x,0,x,0,0,0 to 0,0,1110-0356 to 1110-0356
+105,KCNQ1,missense,x,0,x,0,0,0 to 0,0,2000-0000 to 2000-0000
+106,KCNH2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+107,SCN5A,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+108,KCNH2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+109,KCNE2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+110,CAV3,missense,x,0,x,0,0,0 to 0,xxxx-xxGP to xxxx-xxxx,0000-0023 to 0000-0000
+111,KCNH2,missense,x,0,x,0,0,0 to 0,0,1111-0000 to 1111-0000
+112,BBS2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+113,MKKS,missense,x,0,x,0,0,0 to 0,0,3320-0000 to 1110-0000
+115,MKKS,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+118,BBS4,missense,A,9,A,9,0,9 to 9,0,9999-9300 to 9999-9300
+119,BBS2,missense,x,0,x,0,0,0 to 0,0,1111-0000 to 1111-0000
+120,BBS1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+121,BBS7,missense,x,0,x,0,0,0 to 0,0,5542-0000 to 2221-0000
+123,BBS1,missense,B,3,B,3,0,3 to 3,0,0233-3200 to 0233-3200
+124,MKKS,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+126,MKKS,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+127,BBS2,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+128,BBS4,missense,A,7,A,7,0,7 to 7,0,1104-9999 to 1104-9999
+130,BBS4,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+131,BBS2,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+132,BBS4,missense,x,0,x,0,0,0 to 0,0,0000-9999 to 0000-9999
+136,BBS7,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+140,BBS2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+141,BBS2,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+143,CEP290,missense,x,0,x,0,0,0 to 0,0,0000-0599 to 0000-0599
+144,BBS10,missense,x,0,A,3,x to A,0 to 3,xxxx-xxxx to xxxA-AAAC,0000-0000 to 0002-3332
+146,BBS5,missense,G,4,x,0,G to x,4 to 0,0,9997-4677 to 6653-4677
+149,BBS10,missense,A,3,A,3,0,3 to 3,0,0002-3332 to 0002-3332
+151,BBS12,missense,x,0,x,0,0,0 to 0,0,6200-0000 to 5100-0000
+152,BBS12,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+153,BBS10,missense,A,7,A,7,0,7 to 7,0,0004-9999 to 0004-9999
+155,BBS4,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+157,BBS10,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+159,BBS10,missense,x,0,x,0,0,0 to 0,0,0000-0001 to 0000-0001
+163,BBS10,missense,x,0,x,0,0,0 to 0,0,0000-2333 to 0000-2333
+165,BBS12,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+167,BBS12,missense,A,9,A,9,0,9 to 9,0,0069-9999 to 0069-9999
+168,MKKS,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+170,BBS2,missense,A,9,A,9,0,9 to 9,0,0999-9999 to 0999-9999
+171,BBS10,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+174,TTC8,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+175,BBS9,missense,A,1,x,0,A to x,1 to 0,ACGA-xxxx to ACxx-xxxx,9993-0000 to 9500-0000
+178,MKKS,missense,x,0,x,0,0,0 to 0,0,5300-0000 to 5300-0000
+179,BBS10,missense,B,6,B,6,0,6 to 6,0,0035-6653 to 0035-6653
+180,ARL6,missense,B,5,x,0,B to x,5 to 0,xxxP-BBBB to xxxx-xxxx,0003-6665 to 0000-0000
+181,TTC8,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+182,TTC8,missense,B,2,B,2,0,2 to 2,0,0001-2222 to 0001-2222
+184,BBS12,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+185,BBS1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+186,NPHS2,missense,A,7,A,7,0,7 to 7,0,9999-1000 to 9999-1000
+187,CD2AP,missense,x,0,x,0,0,0 to 0,xxxx-xxxP to xxxx-xxxx,0000-0001 to 0000-0000
+188,NPHS1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+191,NPHS1,missense,C,1,C,1,0,1 to 1,0,0111-1000 to 0111-1000
+192,TYR,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+193,SLC45A2,missense,x,0,C,1,x to C,0 to 1,BBBC-xxxx to BBBB-POCC,9742-0000 to 1111-1111
+195,SLC45A2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+196,OCA2,missense,B,1,B,1,0,1 to 1,0,0001-1110 to 0001-1110
+197,SLC45A2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+199,OCA2,missense,x,0,x,0,0,0 to 0,0,0000-0001 to 0000-0001
+200,IL10RA,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+201,IL10RA,missense,C,2,C,2,0,2 to 2,0,0000-3333 to 0000-3333
+202,NOD2,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+203,EDA,missense,x,0,x,0,0,0 to 0,xxxx-xxAA to xxxx-xxxx,0000-0023 to 0000-0000
+205,MTR,missense,x,0,x,0,0,0 to 0,xxxx-xxxx to Cxxx-xxxx,0000-0000 to 2000-0000
+206,MYO7A,missense,A,3,x,0,A to x,3 to 0,AAGA-AAAx to xxxx-xxxx,6553-3320 to 0000-0000
+208,EDA,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+209,WNT10A,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+210,EDA,missense,B,3,B,3,0,3 to 3,0,2333-2000 to 2333-2000
+212,EDA,missense,A,9,A,9,0,9 to 9,0,9999-9997 to 9999-9997
+213,WNT10A,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+215,MYO6,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+217,CPT2,missense,C,1,x,0,C to x,1 to 0,BBBB-xxxx to xxxx-xxxx,1111-0000 to 0000-0000
+219,FGFR1,missense,x,0,x,0,0,0 to 0,0,3332-0000 to 3332-0000
+220,GNRHR,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+221,KAL1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+222,PROKR2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+223,FGFR1,missense,B,7,B,7,0,7 to 7,0,0004-9999 to 0004-9999
+224,KISS1R,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+225,PROK2,missense,x,0,x,0,0,0 to 0,0,0000-0001 to 0000-0001
+226,PROKR2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+227,FGFR1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+228,KAL1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+230,SCN5A,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+231,KCNQ1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+233,KCNJ10,missense,x,0,B,1,x to B,0 to 1,xxxx-xxxx to xBBB-Cxxx,0000-0000 to 0111-1000
+234,SLC26A4,missense,x,0,x,0,0,0 to 0,0,1111-0000 to 1111-0000
+235,KCNJ10,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+238,GDNF,missense,A,6,A,3,0,6 to 3,AAAA-AAAA to AAAG-AAAA,3336-7776 to 1112-3332
+245,MFN2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+247,MYO7A,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+248,CDH23,missense,x,0,x,0,0,0 to 0,0,9620-6999 to 9620-6999
+250,CDH23,missense,x,0,x,0,0,0 to 0,0,9995-0000 to 9995-0000
+252,GPR98,missense,x,0,B,2,x to B,0 to 2,0,3332-0000 to 5554-0000
+255,DFNB31,missense,x,0,B,1,x to B,0 to 1,xxxx-xxxx to xBBB-Bxxx,0000-0000 to 0111-1000
+256,MYO7A,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+258,USH2A,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+266,IL17RD,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+267,FGFR1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+268,IL17RD,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+269,KISS1R,missense,x,0,x,0,0,0 to 0,0,0000-0599 to 0000-0599
+270,DUSP6,missense,x,0,x,0,0,0 to 0,xxxx-xxxx to CPxx-xxxx,0000-0000 to 1100-0000
+271,FGFR1,missense,B,1,B,1,0,1 to 1,0,0001-1110 to 0001-1110
+272,DUSP6,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+274,DUSP6,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+275,FGFR1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+276,FGFR1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+277,FLRT3,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+279,ITGA7,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+281,HNF4A,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+283,NPHS2,missense,x,0,x,0,0,0 to 0,0,9997-9999 to 9997-9999
+284,NPHS1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+286,EDA,missense,A,9,A,9,0,9 to 9,0,9999-7000 to 9999-7000
+287,USH2A,missense,x,0,A,6,x to A,0 to 6,xxxx-xxxx to xAAA-AACx,0000-0000 to 0356-6530
+289,MKKS,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+290,BBS2,missense,x,0,x,0,0,0 to 0,0,0000-0111 to 0000-0111
+293,KAL1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+295,LMNA,missense,x,0,x,0,0,0 to 0,0,0000-9999 to 0000-9999
+296,PRF1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+298,PRF1,missense,x,0,x,0,0,0 to 0,0,1000-0000 to 1000-0000
+300,PRF1,missense,x,0,x,0,0,0 to 0,0,0000-0044 to 0000-0044
+301,UNC13D,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+302,UNC13D,missense,x,0,A,9,x to A,0 to 9,0,0000-9999 to 0000-9999
+303,UNC13D,missense,x,0,A,5,x to A,0 to 5,AAxx-xxxx to AAAA-xxxx,9500-0000 to 9999-0000
+304,UNC13D,missense,A,9,A,9,0,9 to 9,AAAA-AAGC to AAAA-AAEx,9999-9999 to 9999-9960
+305,PRF1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+306,UNC13D,missense,A,9,C,9,A to C,9 to 9,xxCA-AAAA to xxxA-AAAA,0015-9999 to 0005-9999
+307,UNC13D,missense,x,0,x,0,0,0 to 0,0,6410-0000 to 6410-0000
+308,PRF1,missense,A,9,A,9,0,9 to 9,AAAA-AAAA to xAAA-AAAA,6699-9999 to 0699-9999
+309,UNC13D,missense,A,9,x,0,A to x,9 to 0,AAAA-AAAA to ACCx-xxxx,9999-9999 to 3320-0000
+310,UNC13D,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9996
+312,UNC13D,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 6999-9999
+313,PRF1,missense,x,0,x,0,0,0 to 0,0,6653-0079 to 6653-0079
+314,UNC13D,missense,A,1,A,1,0,1 to 1,0,9711-1000 to 9711-1000
+315,STXBP2,missense,x,0,x,0,0,0 to 0,GACx-xxxx to Gxxx-xxxx,5210-0000 to 4000-0000
+316,PRF1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+317,STXBP2,missense,x,0,x,0,0,0 to 0,0,0000-0003 to 0000-0003
+318,STXBP2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+320,STXBP2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+323,STXBP2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+324,UNC13D,missense,A,9,x,0,A to x,9 to 0,xAAA-AAAA to xxxx-AAAA,0999-9999 to 0000-3566
+325,STX11,missense,A,1,A,9,0,1 to 9,AAAx-AAAA to AAAA-AAAA,1110-1111 to 9999-9999
+326,STXBP2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+327,STX11,missense,A,9,A,9,0,9 to 9,0,0099-9999 to 0099-9999
+328,RAB27A,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+329,PROKR2,missense,A,5,A,5,0,5 to 5,0,5545-5422 to 5545-5422
+330,FGFR1,missense,x,0,x,0,0,0 to 0,0,0000-3444 to 0000-3444
+331,PROKR2,missense,A,9,A,9,0,9 to 9,0,9999-9800 to 9999-9800
+332,PROKR2,missense,B,9,B,9,0,9 to 9,0,0005-9999 to 0005-9999
+333,GNRHR,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+334,POLG,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+335,C10orf2,missense,x,0,x,0,0,0 to 0,AAEA-xAAA to xxxx-xxxA,9974-0478 to 0000-0001
+338,DSP,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+340,MYH7,missense,G,5,A,9,G to A,5 to 9,AAAx-AAAA to AAAA-AAAA,9990-9999 to 9999-9999
+341,NEXN,missense,A,9,G,9,A to G,9 to 9,AAAA-xxxA to AAAC-AAxx,9999-0001 to 9999-9500
+342,MYH7,missense,A,9,A,9,0,9 to 9,0,9999-9998 to 9999-9998
+344,DSP,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+345,JUP,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+347,JUP,missense,C,2,C,2,0,2 to 2,0,0222-2579 to 0222-2579
+350,BMPR2,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+353,PDX1,missense,x,0,x,0,0,0 to 0,0,9720-0000 to 9720-0000
+354,NEUROD1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+358,PROK2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+359,GNRHR,missense,A,1,A,1,0,1 to 1,0,9911-1001 to 9911-1001
+360,ABCC9,missense,A,9,A,2,0,9 to 2,AAAA-Axxx to AAAA-xxxx,9999-3000 to 9998-0000
+363,NEXN,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+366,ATP2B3,missense,G,4,G,4,0,4 to 4,xxxx-BBBB to BBBG-BBBB,0000-7999 to 1111-7999
+367,LAMA1,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+368,LAMA1,missense,x,0,x,0,0,0 to 0,0,8510-0000 to 8510-0000
+369,DSP,missense,A,9,A,9,0,9 to 9,0,9999-9999 to 9999-9999
+370,PRPH2,missense,x,0,x,0,0,0 to 0,0,0000-0000 to 0000-0000
+373,C10orf2,missense,B,2,B,2,0,2 to 2,0,3333-0000 to 3333-0000
