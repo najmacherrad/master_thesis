@@ -1,4 +1,4 @@
-# TRANSFORM fasta sequence after neutral mutation
+# TRANSFORM fasta sequence after neutral 1KGP mutation
 # /Memoire/Neutral_mutation
 
 # coding=utf-8
@@ -12,17 +12,6 @@ import csv
 #-------------------------------------------------------------------------------
 # Creation of file with fasta sequence mutant
 #-------------------------------------------------------------------------------
-# dida_vars_1kg.csv = 78'428 lines
-#normalement 8'669 unique variants
-f1 = csv.reader(open('dida_vars_1kg.csv', 'rb'),delimiter='\t')
-writer = csv.writer(open('neutral_variants.csv', 'wb'))
-hgvsprot = set()
-#SORT BY dbsnp_id
-for row in f1:
-	if row[33] not in hgvsprot:
-		writer.writerow(row)
-		hgvsprot.add(row[33]) #8'669 lines
-
 df = pd.read_csv('neutral_variants.csv',',') #176 columns
 df2 = df[['id','hgvs_protein','gene_symbol','protein_pos','protein_length','gene_ensembl','transcript_ensembl','transcript_uniprot_id','dbsnp_id','snpeff_effect','Protein_position_Biomart','Protein_ref_allele','Protein_alt_allele']]
 df2.to_csv('neutral_variants_modif.csv', index=False)
@@ -160,24 +149,5 @@ for v in variants:
                         pb.write('Isoform problem in '+ ID +' (' + v[8] + ') position '+ str(position6) + ' with effect synonymous'+ '\n')
 fasta.close()
 V.close()
-mutant.close()   #6'348 sequences 
-pb.close() #2'262 lines
-
-# 49 variants with no protein change -> Protein_position_Biomart = 0
-# 11 variants with Protein_alt_allele = *
-
-#TO KNOW NUMBER OF SEQUENCES 
-file=open('DIDAgenes_neutralmut.txt','r')  
-lines = file.readlines()        
-liste=[]
-for i in range(0,len(lines)):
-    if lines[i].startswith('>'):
-        liste.append(lines[i])            
-file.close()
-
-file=open('ProblemsFile.txt','r')  
-lines = file.readlines()        
-liste=[]
-for i in range(0,len(lines)):
-    liste.append(lines[i])            
-file.close()
+mutant.close()   
+pb.close() 
