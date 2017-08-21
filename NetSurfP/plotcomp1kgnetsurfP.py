@@ -344,3 +344,96 @@ stats.ranksums(xRSA,yRSA) # (U,p-value) = (-7.4005610929180445, 1.35610261556939
 
 
 
+
+#-----------------------------------------------------------------------------
+#Plot comparing solvent accessibility change : wt-DIDA VS wt-1kg
+#-----------------------------------------------------------------------------
+file_diff_DIDA = 'netsurfpresults_compare.csv'
+file_diff_1KGP = 'netsurfpresults_compare1kg.csv'
+
+RSA_DIDA = getColumn(file_diff_DIDA,3,',')
+RSA_1kg = getColumn(file_diff_1KGP,3,',')
+RSA_DIDA.pop(0)
+RSA_1kg.pop(0)
+
+xRSA,yRSA=[],[]
+for i in range(0,len(RSA_DIDA)): #241
+    if RSA_DIDA[i]=='NA':
+        xRSA.append(np.nan)
+    else:
+        xRSA.append(float(RSA_DIDA[i]))
+for i in range(0,len(RSA_1kg)): #2516
+    if RSA_1kg[i]=='NA':
+        yRSA.append(np.nan)
+    else:
+        yRSA.append(float(RSA_1kg[i]))
+
+fig = figure()
+mu1, std1 = stats.norm.fit(xRSA)
+mu2, std2 = stats.norm.fit(yRSA)
+bins = np.linspace(-0.4, 0.4, 35)
+plt.hist(xRSA, bins, alpha=0.3, label='wt - deleterious DIDA mutants \n(fit results: mu=%.2f,std=%.2f)'%(mu1, std1),normed=True,color='red')
+plt.hist(yRSA, bins, alpha=0.3, label='wt - neutral 1KGP mutants \n(fit results: mu=%.2f,std=%.2f)'%(mu2, std2),normed=True,color='blue')
+xmin1, xmax1 = plt.xlim()
+xmin2, xmax2 = plt.xlim()
+x1 = np.linspace(xmin1, xmax1, 100)
+x2 = np.linspace(xmin2, xmax2, 100)
+p1 = stats.norm.pdf(x1, mu1, std1)
+p2 = stats.norm.pdf(x2, mu2, std2)
+plt.plot(x1, p1, 'r', linewidth=2)
+plt.plot(x2, p2, 'b', linewidth=2)
+plt.xlabel('delta(Solvent accessibility predicted values)')
+plt.ylabel('Frequency')
+plt.ylim(0,30)
+plt.xlim(-0.3,0.4)
+plt.legend(loc='upper right')
+fig.savefig('histoRSA_DIDA1kg_diff.png')
+
+#MANN-WHITNEY:
+stats.ranksums(xRSA,yRSA) # (U,p-value) = (1.3035870938300544, 0.19237440346309431)
+# Not reject H0
+# The distributions of two sets of variables have no difference
+
+#Environnment
+RSA_DIDA = getColumn(file_diff_DIDA,4,',')
+RSA_1kg = getColumn(file_diff_1KGP,4,',')
+RSA_DIDA.pop(0)
+RSA_1kg.pop(0)
+
+xRSA,yRSA=[],[]
+for i in range(0,len(RSA_DIDA)): #241
+    if RSA_DIDA[i]=='NA':
+        xRSA.append(np.nan)
+    else:
+        xRSA.append(float(RSA_DIDA[i]))
+for i in range(0,len(RSA_1kg)): #2516
+    if RSA_1kg[i]=='NA':
+        yRSA.append(np.nan)
+    else:
+        yRSA.append(float(RSA_1kg[i]))
+
+fig = figure()
+mu1, std1 = stats.norm.fit(xRSA)
+mu2, std2 = stats.norm.fit(yRSA)
+bins = np.linspace(-0.4, 0.4, 35)
+plt.hist(xRSA, bins, alpha=0.3, label='wt - deleterious DIDA mutants \n(fit results: mu=%.2f,std=%.2f)'%(mu1, std1),normed=True,color='red')
+plt.hist(yRSA, bins, alpha=0.3, label='wt - neutral 1KGP mutants \n(fit results: mu=%.2f,std=%.2f)'%(mu2, std2),normed=True,color='blue')
+xmin1, xmax1 = plt.xlim()
+xmin2, xmax2 = plt.xlim()
+x1 = np.linspace(xmin1, xmax1, 100)
+x2 = np.linspace(xmin2, xmax2, 100)
+p1 = stats.norm.pdf(x1, mu1, std1)
+p2 = stats.norm.pdf(x2, mu2, std2)
+plt.plot(x1, p1, 'r', linewidth=2)
+plt.plot(x2, p2, 'b', linewidth=2)
+plt.xlabel('delta(Solvent accessibility predicted values)')
+plt.ylabel('Frequency')
+plt.ylim(0,30)
+plt.xlim(-0.3,0.4)
+plt.legend(loc='upper right')
+fig.savefig('histoRSA_DIDA1kg_diff_envt.png')
+
+#MANN-WHITNEY:
+stats.ranksums(xRSA,yRSA) # (U,p-value) = (-0.40173252274280541, 0.68788088669316183)
+# Not reject H0
+# The distributions of two sets of variables have no difference
